@@ -1,0 +1,277 @@
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\8_04_19_Bota\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Desarrollo Roberto\29_03_2019_Bot\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Admin\Desktop\Ventas_bots\Bot_Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Admin\Desktop\Actualizacion de Ventas Liverpool\Portal de Liverpool\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\jppereza\Desktop\Actualizacion VT\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Roberto\Desktop\Desarrollo Roberto TELEVISA\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Portales de ventas\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\CAMBIAR A VENTAS 09099\Bots_24_06_19\Recalibracion\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+D:\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+D:\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Intermex\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\dribanezt\Desktop\Liver reca\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+\\int09099\Bots\Portales\Ventas\Fuentes\CORPSFEVEXTSQLP.corp.televisa.com.mx,2020\Auditoria\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\alopezr\Desktop\Bot_liverpool_VT\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\alopezr\Documents\GitHub\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CoreCompileInputs.cache
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\Intermex\Documents\GitHub\BotsRetail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe.config
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.exe
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\Bot_liverpool_VT.pdb
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.dll
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.dll
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.xml
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\bin\Debug\WebDriver.Support.xml
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csprojAssemblyReference.cache
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.Properties.Resources.resources
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.GenerateResource.cache
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.csproj.CopyComplete
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.exe
+C:\Users\RITA ESTHER SALAZAR\Documents\GitHub\Bots Retail\Bot-Retail-Liverpool-Venta\Bot_liverpool_VT\obj\Debug\Bot_liverpool_VT.pdb
